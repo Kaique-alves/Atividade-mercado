@@ -1,0 +1,22 @@
+D:\kaique\DS\211469\bin\Debug\211469.exe.config
+D:\kaique\DS\211469\bin\Debug\211469.exe
+D:\kaique\DS\211469\bin\Debug\211469.pdb
+D:\kaique\DS\211469\obj\Debug\211469.csproj.AssemblyReference.cache
+D:\kaique\DS\211469\obj\Debug\_211469.frm_Avaliacao.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Properties.Resources.resources
+D:\kaique\DS\211469\obj\Debug\211469.csproj.GenerateResource.cache
+D:\kaique\DS\211469\obj\Debug\211469.csproj.CoreCompileInputs.cache
+D:\kaique\DS\211469\obj\Debug\211469.exe
+D:\kaique\DS\211469\obj\Debug\211469.pdb
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.exe.config
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.exe
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.pdb
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.AssemblyReference.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.frm_Avaliacao.resources
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.Properties.Resources.resources
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.GenerateResource.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.CoreCompileInputs.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.exe
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.pdb
+D:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.exe
+D:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.pdb
